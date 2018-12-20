@@ -2,6 +2,7 @@
 layout: post
 title: "我的新文章"
 date: 2018-12-20 1:38:00
+author: liuc
 categories: blog
 tags: blog test
 ---
@@ -10,6 +11,8 @@ tags: blog test
 {:toc}
 
 我的第一篇文章
+
+
 
 
 
