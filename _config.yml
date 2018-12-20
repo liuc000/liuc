@@ -7,7 +7,7 @@
 
 # Site settings
 title: liuc的博客
-brief-intro: Android and Python Coder
+brief-intro: 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://liuc000.github.io" # the base hostname & protocol for your site
 
@@ -19,7 +19,7 @@ facebook_username: #gaohaoyang.water
 github_username:  liuc000
 email: liuc000@163.com
 weibo_username: 5623191188
-zhihu_username: liuc000
+zhihu_username: 
 linkedIn_username: 
 dribbble_username:
 
