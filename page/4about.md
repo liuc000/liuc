@@ -11,10 +11,7 @@ type: page
 
 ## 关于我
 
-> 刘成军_九八年来自山东滨州的天秤男<br>
-	每天都在敲代码,敲得脑壳痛.偶尔打打游戏放松一下.<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;---北漂真的累
-
+> 九八年来自山东滨州的菜鸟程序猿
 
 
 
